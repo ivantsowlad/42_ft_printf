@@ -1,4 +1,4 @@
-# 42_printf
+# 42_ft_printf
 
 This project is part of the 42Prague curriculum.
 
